@@ -1,0 +1,3 @@
+What happens when you initialize a directory?
+
+Initializing the directory starts the tracking of meta data and versions for that directory.
