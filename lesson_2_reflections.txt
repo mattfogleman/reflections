@@ -5,3 +5,8 @@ Initializing the directory starts the tracking of meta data and versions for tha
 How is the staging area different from the working directory and the repository?  What value do you think it offers?
 
 The staging area differs becauase it acts a stop gap between your working directory and the repository.  The files in the staging area are not saved until a commit is initiated, and the files in the staging area are not the working version of the file.  
+
+
+What are some situations when branches would be helpful in keeping your history organized.  How would branches help?
+
+Branches enable you to try large scale changes, but still be able to easily revert to a working version of your code.
